@@ -1,0 +1,16 @@
+.top{
+    height: 10%;
+    background-color: aquamarine
+}
+.left{
+    float: left;
+    width: 30%;
+}
+.right{
+    float: left;
+    width: 70%;
+    background-color: dimgrey
+}
+.item{
+    float: left;
+}
